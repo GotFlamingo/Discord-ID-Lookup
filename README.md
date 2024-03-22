@@ -16,6 +16,7 @@ Discord ID Lookup er et Python-script, der giver mulighed for at slå brugerdeta
 ```bash
 git clone https://github.com/GotFlamingo/Discord-ID-Lookup.git
 cd Discord-ID-Lookup
+pip install -r requirements.txt
 py main
 ```
 Eller 
