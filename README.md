@@ -18,6 +18,10 @@ git clone https://github.com/GotFlamingo/Discord-ID-Lookup.git
 cd Discord-ID-Lookup
 py main
 ```
+Eller 
+Gå til projektets mappe:
+Åben **Setup.bat**
+
 
 
 
