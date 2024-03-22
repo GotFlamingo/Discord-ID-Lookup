@@ -20,6 +20,7 @@ py main
 ```
 Eller 
 Gå til projektets mappe:
+
 Åben **Setup.bat**
 
 
