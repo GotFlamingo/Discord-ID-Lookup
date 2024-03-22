@@ -3,7 +3,7 @@
 ## Beskrivelse
 Discord ID Lookup er et Python-script, der giver mulighed for at slå brugerdetaljer op ved hjælp af Discord-brugerens ID. Det henter oplysninger som brugernavn, diskriminator, avatar, sprog, flags, premium-status og verifikationsstatus ved hjælp af Discord's offentlige API.
 
-![image](https://github.com/GotFlamingo/Discord-ID-Lookup/assets/126965713/5dd28f26-5e7c-41da-8ab4-75e4aea2fc0f)
+![image](https://github.com/GotFlamingo/Discord-ID-Lookup/assets/126965713/b474baad-6116-47cf-b300-b11e67d102e6)
 
 
 ## Funktioner
